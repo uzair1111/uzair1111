@@ -13,7 +13,15 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
+<h2>📜 Certifications:</h2>
+
+- <b>[Google IT Support Profesional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/45FE7RLG7N8Q)</b>
+- <b>[Web Application For Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/RZX9DZPACLJR)</b>
+- <b>[AI Foundations for Everyone](https://www.coursera.org/account/accomplishments/specialization/certificate/XL6FJ9PMG2ZS)</b>
+
   
+
 
 <h2>📚 Popular Blogs</h2>
 
