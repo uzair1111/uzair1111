@@ -1,9 +1,15 @@
 <h1>Hi, I'm Uzair Shahid! <br/><a href="https://github.com/uzair1111">Programmer</a>, <a href="https://www.linkedin.com/in/uzair-shahid-307072186/">IT Support Professional</a></h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>💻 IT Support Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+
+<h2>🕵️‍♂️ Cyber Security Projects:</h2>
+
+- <b>Security Audit</b>
+  - [Botium Toys ](https://github.com/uzair1111/Botium-Toys-Security-audit.git) <b><i>(fictional company)</b></i>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
