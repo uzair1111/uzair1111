@@ -17,7 +17,7 @@
 - <b>MERN Stack Web App </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
-  - [Basic Python Projects)](https://github.com/uzair1111/python)
+  - [Basic Python Projects](https://github.com/uzair1111/python)
 
 
 <h2>📜 Certifications:</h2>
