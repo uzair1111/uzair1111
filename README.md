@@ -17,7 +17,7 @@
 - <b>MERN Stack Web App </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Basic Python Projects)](https://github.com/uzair1111/python)
 
 
 <h2>📜 Certifications:</h2>
@@ -31,12 +31,8 @@
 
 <h2>📚 Popular Blogs</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
+- [All about Computer Networking you need to know.](https://medium.com/@auzair.shahid/all-about-computer-networking-you-need-to-know-76107d6a40c6)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="UzairShahid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -46,5 +42,5 @@
 
 [twitter]: https://twitter.com/Uzair78523037
 [medium]: https://medium.com/@auzair.shahid
-[facebook]: [https://www.instagram.com/joshmadakor/](https://www.facebook.com/uzair.shahid.3154284)
+[facebook]: https://www.facebook.com/uzair.shahid.3154284
 [linkedin]: https://www.linkedin.com/in/uzair-shahid-307072186/
