@@ -15,7 +15,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java </b>
-  - [Java Pattrens](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Java Pattrens](https://github.com/uzair1111/Java-patterns) 
 - <b>Python</b>
   - [Basic Python Projects](https://github.com/uzair1111/python)
 
