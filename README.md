@@ -14,8 +14,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>MERN Stack Web App </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Java </b>
+  - [Java Pattrens](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Python</b>
   - [Basic Python Projects](https://github.com/uzair1111/python)
 
