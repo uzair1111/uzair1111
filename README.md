@@ -15,7 +15,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java </b>
-  - [Java Pattrens](https://github.com/uzair1111/Java-patterns) 
+  - [Java Pattrens](https://github.com/uzair1111/Java-patterns)
+  - [Advance Java Pattrens](https://github.com/uzair1111/Advance_Java_Patterns) 
 - <b>Python</b>
   - [Basic Python Projects](https://github.com/uzair1111/python)
 
